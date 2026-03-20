@@ -1,0 +1,5 @@
+[phases.build]
+cmds = ["mv test_markazi.html index.html"]
+
+[start]
+cmd = "python3 server.py"
